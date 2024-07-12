@@ -84,8 +84,3 @@ The `run.py` script continually fetches random recipes from the MongoDB database
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-We hope you find this project useful and we look forward to your contributions! If you have any questions or issues, please feel free to open an issue or reach out to the maintainers.
-
-Happy coding!
